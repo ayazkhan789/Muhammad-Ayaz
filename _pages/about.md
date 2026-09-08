@@ -17,17 +17,3 @@ My current work investigates visual and multimodal understanding for challenging
 I am particularly interested in developing robust multimodal systems that combine visual, textual, and other sensory information for perception, reasoning, and decision support. My broader research interests include Generative AI, Large Language Models, representation learning, and deployable intelligent systems.
 
 Before joining Chung-Ang University, I worked as a Research Assistant and Course Assistant at the Digital Image Processing Laboratory, Islamia College University, Pakistan, contributing to research involving image classification, object detection, 3D object detection, segmentation, medical AI, autonomous driving, and video understanding.
-
-## Research Interests
-
-- Computer Vision and Deep Learning
-- Multimodal AI and Vision-Language Models
-- Fire and Smoke Detection and Segmentation
-- Disaster Scene Understanding
-- Affective Computing and Emotion Reasoning
-- Medical Vision-Language Models
-- Generative AI and Multimodal Reasoning
-
-## Current Research
-
-My current projects span weakly supervised fire and smoke segmentation, edge-AIoT safety monitoring, uncertainty-aware multimodal emotion reasoning, disaster-focused vision-language models, and resource-efficient medical AI. See the [Research page]({% link _pages/research.md %}) for project details and status.

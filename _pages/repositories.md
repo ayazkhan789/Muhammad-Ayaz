@@ -4,7 +4,7 @@ permalink: /repositories/
 title: Repositories
 description: Open-source work and research code by Muhammad Ayaz.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 ## GitHub

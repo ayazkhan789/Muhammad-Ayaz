@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 3
+nav_order: 2
 description: Academic background, research experience, selected publications, projects, awards, and technical skills.
 toc:
   sidebar: left

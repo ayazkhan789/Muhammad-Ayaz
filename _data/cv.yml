@@ -73,34 +73,6 @@
       description:
         - Published; Best Paper Award.
 
-- title: Research Projects
-  type: time_table
-  contents:
-    - title: Fire and Smoke Understanding
-      year: Active
-      description:
-        - Detection, weakly supervised instance segmentation, adaptive fusion, frequency-aware representations, and edge deployment.
-    - title: Industrial Gas and Fire Monitoring
-      year: Under Review
-      description:
-        - TLD-Net, an Edge-AIoT framework for unified industrial gas-leak and fire monitoring.
-    - title: Multimodal Emotion Understanding
-      year: In Progress
-      description:
-        - Uncertainty-aware learning and cross-modal reasoning across vision, audio, and language.
-    - title: Disaster Vision-Language Models
-      year: In Progress
-      description:
-        - Disaster recognition, context and severity understanding, response-oriented reasoning, and VLM evaluation.
-    - title: Medical Vision-Language Models
-      year: Active
-      description:
-        - Resource-efficient medical VQA and report understanding or generation across X-ray, CT, and MRI data.
-    - title: Video Understanding and Autonomous Driving
-      year: Prior Work
-      description:
-        - Anomaly and action recognition, multimodal violence detection, ROAD-R, FSOCO, road-crack annotation, and KITTI 3D object detection.
-
 - title: Honors and Awards
   type: time_table
   contents:
