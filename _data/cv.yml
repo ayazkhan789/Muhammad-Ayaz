@@ -47,6 +47,16 @@
 - title: Selected Publications
   type: time_table
   contents:
+    - title: '<a href="https://arxiv.org/abs/2608.04501">Privacy-Preserving Action Recognition: Taxonomy, Methods, and Privacy-Utility Trade-offs</a>'
+      institution: arXiv preprint arXiv:2608.04501
+      year: "2026"
+      description:
+        - Co-author; preprint.
+    - title: '<a href="https://doi.org/10.1016/j.cmpb.2026.109541">Medical Question Answering: A Comprehensive Multimodal and LLM-Driven Survey</a>'
+      institution: Computer Methods and Programs in Biomedicine
+      year: "2026"
+      description:
+        - Co-author; published.
     - title: '<a href="https://doi.org/10.1016/j.aei.2026.104671">BoXFire: Geometry-Aware Box-Supervised Fusion for Accurate Fire and Smoke Segmentation</a>'
       institution: Advanced Engineering Informatics
       year: "2026"

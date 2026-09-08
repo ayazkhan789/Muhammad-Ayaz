@@ -7,9 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-## Published and Peer-Reviewed Work
+## Publications and Preprints
 
-The entries below are generated from the site's BibTeX bibliography. Manuscript status is kept separate from peer-reviewed publications.
+The entries below are generated from the site's BibTeX bibliography. Preprints are labeled explicitly, and manuscript status is kept separate from published work.
 
 <div class="publications">
 
@@ -52,11 +52,6 @@ The entries below are generated from the site's BibTeX bibliography. Manuscript 
   <h4>Multimodal Disaster Scene Understanding with Vision-Language Models</h4>
   <p><span class="badge badge-info">Research Project · In Progress</span></p>
   <p class="mb-0">Developing a large-scale disaster image dataset and multimodal reasoning framework covering fire, flood, earthquake, collapsed-building, and normal scenes. The research investigates disaster classification, scene context, severity, response-oriented reasoning, and vision-language model evaluation.</p>
-</div>
-
-<div class="card mt-3 p-3">
-  <h4>Medical Question Answering: A Comprehensive Multimodal and LLM-Driven Survey</h4>
-  <p class="mb-0"><span class="badge badge-info">In Progress</span> Co-author</p>
 </div>
 
 ## Metadata Pending Verification
