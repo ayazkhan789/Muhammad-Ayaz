@@ -1,4 +1,5 @@
 _site
+.build
 .bundle
 .sass-cache
 .jekyll-cache

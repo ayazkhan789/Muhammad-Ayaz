@@ -2,22 +2,32 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Fellow, <a href='https://www.brookes.ac.uk/research/units/tde/groups/visual-artificial-intelligence-laboratory'>Visual Artificial Intelligence Laboratory</a>, Oxford Brookes University, Oxford, UK
+subtitle: Research Assistant and MS Student, <a href="https://www.cau.ac.kr/">Chung-Ang University</a>, Seoul, Republic of Korea
 
-profile:
-  align: right
-  image: salman.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>E-138, Wheatley Campus, Oxford Brookes, University </p>
-    <p>Oxford (OX33 1HX), United Kingdom</p>
-
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true
+latest_posts: false
+selected_papers: true
+social: true
 ---
 
-I am a Research Fellow at the Visual Artificial Intelligence Laboratory, Oxford Brookes University. I have completed my PhD in 2023 under the supervision of [Prof. Fabio Cuzzolin](https://cms.brookes.ac.uk/staff/FabioCuzzolin/) at the same institution. Prior to this, I completed my Master's in 2020 at Sejong University, South Korea, supervised by [Prof. Sung Wook Baik](https://sejong.elsevierpure.com/en/persons/sung-wook-baik) and [Dr. Khan Muhammad](https://scholar.google.co.kr/citations?user=k5oUZyQAAAAJ&hl=en). My research focuses on action and activity recognition/detection, epistemic uncertainty,  continual learning, surgical robotics, and fire & smoke detection/segmentation. I am deeply committed to pushing the boundaries of AI's capabilities and collaborating with fellow researchers to address complex challenges in the field.
+I am an MS student and Research Assistant at the [Graphics Realization Lab (GRLab)](https://grlab.cau.ac.kr/), Chung-Ang University, Seoul, Republic of Korea. My research focuses on computer vision, deep learning, multimodal artificial intelligence, and vision-language models.
 
-[Email](mailto:salmankhan@brookes.ac.uk) / [Google Scholar](https://scholar.google.co.kr/citations?user=0kXugtIAAAAJ&hl=en) /[GitHub](https://github.com/salmank255) /[LinkedIn](https://www.linkedin.com/in/salman-khan-240aab109/) 
+My current work investigates visual and multimodal understanding for challenging real-world applications, particularly fire and smoke analysis, instance and semantic segmentation, disaster scene understanding, affective computing, multimodal emotion reasoning, and medical vision-language models.
+
+I am particularly interested in developing robust multimodal systems that combine visual, textual, and other sensory information for perception, reasoning, and decision support. My broader research interests include Generative AI, Large Language Models, representation learning, and deployable intelligent systems.
+
+Before joining Chung-Ang University, I worked as a Research Assistant and Course Assistant at the Digital Image Processing Laboratory, Islamia College University, Pakistan, contributing to research involving image classification, object detection, 3D object detection, segmentation, medical AI, autonomous driving, and video understanding.
+
+## Research Interests
+
+- Computer Vision and Deep Learning
+- Multimodal AI and Vision-Language Models
+- Fire and Smoke Detection and Segmentation
+- Disaster Scene Understanding
+- Affective Computing and Emotion Reasoning
+- Medical Vision-Language Models
+- Generative AI and Multimodal Reasoning
+
+## Current Research
+
+My current projects span weakly supervised fire and smoke segmentation, edge-AIoT safety monitoring, uncertainty-aware multimodal emotion reasoning, disaster-focused vision-language models, and resource-efficient medical AI. See the [Research page]({% link _pages/research.md %}) for project details and status.

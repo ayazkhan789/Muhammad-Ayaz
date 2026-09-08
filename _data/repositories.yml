@@ -1,12 +1,5 @@
 github_users:
-  - salmank255
+  - ayazkhan789
 
+# Add individual repositories only after their public names and ownership are verified.
 github_repos:
-  - salmank255/Road-waymo-dataset
-  - salmank255/ROAD_Waymo_Baseline
-  - salmank255/CompAD
-  - gurkirt/3D-RetinaNet
-  - salmank255/IJCAI-2021-Continual-Activity-Recognition-Challenge
-  - gurkirt/road-dataset
-
-

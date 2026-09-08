@@ -58,9 +58,8 @@
             {%- endfor -%}
           {%- endif -%}
 
-          {%- if forloop.length > 1 -%}
-            {%- if forloop.first == false -%},&nbsp;{%- endif -%}
-            {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
+          {%- if forloop.first == false -%}
+            {%- if forloop.last and author_array_limit == author_array_size -%}&nbsp;and&nbsp;{%- else -%},&nbsp;{%- endif -%}
           {%- endif -%}
           {%- if author_is_self -%}
             <em>{{author.first}} {{author.last}}</em>
@@ -119,6 +118,8 @@
         {%- else -%}
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}
+        {%- assign entrymonth = "" -%}
+        {%- assign entryyear = "" -%}
         {%- if entry.month -%}
           {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
         {%- endif -%}
@@ -147,6 +148,9 @@
           {%- endif %}
           {%- if entry.html %}
             <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          {%- endif %}
+          {%- if entry.doi %}
+            <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
           {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}

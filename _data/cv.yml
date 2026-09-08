@@ -1,97 +1,143 @@
-# - title: General Information
-#   type: map
-#   contents:
-#     - name: Full Name
-#       value: Albert Einstein
-#     - name: Date of Birth
-#       value: 14th March 1879
-#     - name: Languages
-#       value: English, German
+- title: Education
+  type: time_table
+  contents:
+    - title: MS
+      institution: <a href="https://www.cau.ac.kr/">Chung-Ang University</a>
+      department: Department of Applied Arts and Engineering, Graduate School
+      year: "2025 - Present"
+      location: Seoul, Republic of Korea
+      description:
+        - "GPA: 4.33/4.5"
+        - "Laboratory: <a href=\"https://grlab.cau.ac.kr/\">Graphics Realization Lab (GRLab)</a>"
+    - title: BS Computer Science
+      institution: Agriculture University Peshawar
+      year: "2019 - 2023"
+      location: Peshawar, Pakistan
+      description:
+        - "CGPA: 3.30/4.0; Percentage: 75.91%"
+        - "Thesis: Toward Reliable Fire &amp; Smoke Instance Segmentation in Challenging Environments: A Vision-Based Approach"
 
-# - title: Education
-#   type: time_table
-#   contents:
-#     - title: PhD
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1905
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Federal teaching diploma
-#       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-#       year: 1900
-#       description:
-#         - Description 1.
-#         - Description 2.
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: <a href="https://grlab.cau.ac.kr/">Graphics Realization Lab (GRLab), Chung-Ang University</a>
+      year: "Mar 2025 - Present"
+      location: Seoul, Republic of Korea
+      description:
+        - Conducting research in computer vision, image segmentation, multimodal learning, and deep learning under Prof. Sang-Hyun Seo.
+    - title: Research Assistant
+      institution: Digital Image Processing Laboratory, Islamia College University
+      year: "Sep 2022 - Dec 2024"
+      location: Peshawar, Pakistan
+      description:
+        - Worked on computer vision research involving classification, object detection, 3D object detection, and image segmentation.
+    - title: Course Assistant
+      institution: Digital Image Processing Laboratory, Islamia College University
+      year: "May 2023 - Dec 2024"
+      location: Peshawar, Pakistan
+      description:
+        - Assisted courses related to Artificial Intelligence, Computer Vision, Machine Learning, and Deep Learning.
+    - title: Junior Researcher
+      institution: National Center for Big Data and Cloud Computing (NCBC)
+      year: "Dec 2020 - 2022"
+      description:
+        - Contributed to dataset collection, preprocessing, and research activities.
 
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Professor of Theoretical Physics
-#       institution: Institute for Advanced Study, Princeton University
-#       year: 1933 - 1955
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Visiting Professor
-#       institution: California Institute of Technology, Pasadena, California, US
-#       year: 1933
-#       description:
-#         - Description 1.
-#         - Description 2.
+- title: Selected Publications
+  type: time_table
+  contents:
+    - title: '<a href="https://doi.org/10.1016/j.aei.2026.104671">BoXFire: Geometry-Aware Box-Supervised Fusion for Accurate Fire and Smoke Segmentation</a>'
+      institution: Advanced Engineering Informatics
+      year: "2026"
+      description:
+        - First author; published.
+    - title: '<a href="https://doi.org/10.1109/MCE.2024.3522521">MedVLM: Medical Vision-Language Model for Consumer Devices</a>'
+      institution: IEEE Consumer Electronics Magazine
+      year: "2025"
+      description:
+        - First author; published.
+    - title: Supervised Box Fire and Smoke Segmentation in Real-World Scenarios
+      institution: 21st International Conference on Multimedia Information Technology and Applications (MITA)
+      year: "2025"
+      description:
+        - Published; Best Paper Award.
 
-#     - title: Director
-#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-#       year: 1917-1933
+- title: Research Projects
+  type: time_table
+  contents:
+    - title: Fire and Smoke Understanding
+      year: Active
+      description:
+        - Detection, weakly supervised instance segmentation, adaptive fusion, frequency-aware representations, and edge deployment.
+    - title: Industrial Gas and Fire Monitoring
+      year: Under Review
+      description:
+        - TLD-Net, an Edge-AIoT framework for unified industrial gas-leak and fire monitoring.
+    - title: Multimodal Emotion Understanding
+      year: In Progress
+      description:
+        - Uncertainty-aware learning and cross-modal reasoning across vision, audio, and language.
+    - title: Disaster Vision-Language Models
+      year: In Progress
+      description:
+        - Disaster recognition, context and severity understanding, response-oriented reasoning, and VLM evaluation.
+    - title: Medical Vision-Language Models
+      year: Active
+      description:
+        - Resource-efficient medical VQA and report understanding or generation across X-ray, CT, and MRI data.
+    - title: Video Understanding and Autonomous Driving
+      year: Prior Work
+      description:
+        - Anomaly and action recognition, multimodal violence detection, ROAD-R, FSOCO, road-crack annotation, and KITTI 3D object detection.
 
-#     - title: Professor of Theoretical Physics
-#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
-#       year: 1911 - 1917
-#       description:
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: Best Paper Award
+      institution: 21st MITA International Conference on Multimedia Information Technology and Applications
+      year: "2025"
+      description:
+        - Supervised Box Fire and Smoke Segmentation in Real-World Scenarios.
+    - title: Young Scientist Scholarship
+      institution: Chung-Ang University
+      year: "2025 - Present"
+    - title: Fully Funded HEC Scholarship
+      year: "2019 - 2023"
 
-#     - title: Associate Professor of Theoretical Physics
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1909 - 1911
+- title: Technical Skills
+  type: list_groups
+  contents:
+    - category: Programming
+      items:
+        - name: Python
+        - name: C++
+        - name: C#
+        - name: SQL
+    - category: Deep Learning
+      items:
+        - name: PyTorch
+        - name: TensorFlow
+        - name: Keras
+    - category: Computer Vision and Machine Learning
+      items:
+        - name: OpenCV, Scikit-learn, Scikit-image
+        - name: NumPy, Matplotlib
+        - name: YOLO, DETR, Mask2Former, PointRend
+        - name: CLIP, Vision-Language Models, LoRA, OpenMMLab
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
-
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Visual Intelligence
+      items:
+        - Computer Vision and Deep Learning
+        - Fire and Smoke Detection and Segmentation
+        - Instance and Semantic Segmentation
+        - Disaster Scene Understanding
+    - title: Multimodal Intelligence
+      items:
+        - Multimodal AI and Vision-Language Models
+        - Affective Computing and Emotion Reasoning
+        - Medical Vision-Language Models
+        - Generative AI and Multimodal Reasoning
