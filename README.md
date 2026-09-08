@@ -25,7 +25,7 @@ Open `http://localhost:4000` after the server starts.
 
 ## Deployment
 
-GitHub Actions builds and publishes the site when changes are pushed to the configured default branch. The production URL is configured as <https://ayazkhan789.github.io>.
+GitHub Actions builds and publishes the site when changes are pushed to the configured default branch. The production URL is configured as <https://ayazkhan789.github.io/Muhammad-Ayaz/>.
 
 ## Theme attribution
 
