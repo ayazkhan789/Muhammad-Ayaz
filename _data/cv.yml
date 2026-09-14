@@ -67,7 +67,7 @@
       year: "2025"
       description:
         - First author; published.
-    - title: Supervised Box Fire and Smoke Segmentation in Real-World Scenarios
+    - title: Box-Supervised Fire and Smoke Segmentation in Real-World Scenarios
       institution: 21st International Conference on Multimedia Information Technology and Applications (MITA)
       year: "2025"
       description:
@@ -80,7 +80,7 @@
       institution: 21st MITA International Conference on Multimedia Information Technology and Applications
       year: "2025"
       description:
-        - Supervised Box Fire and Smoke Segmentation in Real-World Scenarios.
+        - Box-Supervised Fire and Smoke Segmentation in Real-World Scenarios.
     - title: Young Scientist Scholarship
       institution: Chung-Ang University
       year: "2025 - Present"

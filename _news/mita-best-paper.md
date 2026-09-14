@@ -7,4 +7,4 @@ inline: true
 related_posts: false
 ---
 
-Received the Best Paper Award at the 21st International Conference on Multimedia Information Technology and Applications (MITA) for “Supervised Box Fire and Smoke Segmentation in Real-World Scenarios.”
+Received the Best Paper Award at the 21st International Conference on Multimedia Information Technology and Applications (MITA) for “Box-Supervised Fire and Smoke Segmentation in Real-World Scenarios.”
